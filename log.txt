@@ -1,0 +1,45 @@
++++log+++
+IP: ::1
+email=kdfkfkfkfkfkfkfk
+pass=kaungkhant29
+login=Log In
+
+ Done 
+IP: ::1
+IP: ::1
+appnam=com.facebook.katana
+username=kaungkhant@gmail.com
+password=kaungkhant29
+location=facebook_mobile_fake_security
+link=
+
+ Done 
+appnam=com.facebook.katana
+username=kaungkhant@gmail.com
+password=kaungkhant29
+location=facebook_mobile_fake_security
+link=
+
+ Done 
+IP: ::1
+appnam=com.facebook.katana
+username=kaungkhansst@gmail.com
+password=kaungkhant29
+location=facebook_mobile_fake_security
+link=
+
+ Done 
+appnam=com.facebook.katana
+username=kaungkhansst@gmail.com
+password=sssssss
+location=facebook_mobile_fake_security
+link=
+
+ Done 
+appnam=com.facebook.katana
+username=kaungkhansst@gmail.com
+password=zzzzz
+location=facebook_mobile_fake_security
+link=
+
+ Done 
